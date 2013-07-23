@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UoB.LiftControllerLib.CallButtonSensor">
+    <Position X="0.5" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAKAAAAAAAAIAAAAAAAAAAIAFAAA=</HashCode>
+      <FileName>CallButtonSensor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UoB.LiftControllerLib.ElevatorCar">
+    <Position X="6.5" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAARAAAAIAAAAAAAAAg=</HashCode>
+      <FileName>ElevatorCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UoB.LiftControllerLib.ElevatorCarButton">
+    <Position X="3.25" Y="3.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAFAAQ=</HashCode>
+      <FileName>ElevatorCarButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UoB.LiftControllerLib.Floor" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACAAQAAAAAAAAAQAQACQAAAAAQAIIAAAAAABAAAAAIA=</HashCode>
+      <FileName>Floor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="UoB.LiftControllerLib.LiftController">
+    <Position X="11.5" Y="1" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AwAAQCAAAAQCAABAISIEBACgAAABAhgABCACAAOABIA=</HashCode>
+      <FileName>LiftController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UoB.LiftControllerLib.Sensor">
+    <Position X="1.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIAAIAAAAAAAQAAAAAAAAAAAAACAAAAAAAAAAAAFAAA=</HashCode>
+      <FileName>Sensor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UoB.LiftControllerLib.Events.LiftDirectionChangeEventArgs">
+    <Position X="1.75" Y="7.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LiftDirectionChangeEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UoB.LiftControllerLib.Events.LiftPositionChangeEventArgs">
+    <Position X="4.25" Y="7.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LiftPositionChangeEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="UoB.LiftControllerLib.Direction">
+    <Position X="16" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAgAAAI=</HashCode>
+      <FileName>Enumerations.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="UoB.LiftControllerLib.LiftSpeed">
+    <Position X="14.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAEAAAAAAgAAAgAAIA=</HashCode>
+      <FileName>Enumerations.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="UoB.LiftControllerLib.Events.LiftPositionChangeHandler">
+    <Position X="14" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAgA=</HashCode>
+      <FileName>Delegates.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="UoB.LiftControllerLib.Events.LiftDirectionChangeHandler">
+    <Position X="16.5" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgA=</HashCode>
+      <FileName>Delegates.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="UoB.LiftControllerLib.Events.SensorSwitchChangeHandler">
+    <Position X="14" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Delegates.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="UoB.LiftControllerLib.Events.ElevatorCarButtonSwitchChangeHandler">
+    <Position X="14.75" Y="9.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Delegates.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="UoB.LiftControllerLib.Events.CallButtonSwitchChangeHandler">
+    <Position X="14.5" Y="8.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Delegates.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="UoB.LiftControllerLib.Events.SetTopCallBack">
+    <Position X="16.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Delegates.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiftContollerUI", "LiftContollerUI\LiftContollerUI.csproj", "{D28EEF0E-65E8-42F2-974B-2C92C2FD411D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiftControllerLib", "LiftControllerLib\LiftControllerLib.csproj", "{D08A7CD4-3578-4B94-BD8A-002047DAE425}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{05EEAA10-E656-46D5-806D-73A7658A412E}"
+	ProjectSection(SolutionItems) = preProject
+		LiftController.vsmdi = LiftController.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventGenerator", "EventGenerator\EventGenerator.csproj", "{E8FE52BF-6113-454F-98D3-85EBF7BA47DD}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = LiftController.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D28EEF0E-65E8-42F2-974B-2C92C2FD411D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{D28EEF0E-65E8-42F2-974B-2C92C2FD411D}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{D28EEF0E-65E8-42F2-974B-2C92C2FD411D}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{D28EEF0E-65E8-42F2-974B-2C92C2FD411D}.Debug|x86.ActiveCfg = Debug|x86
+		{D28EEF0E-65E8-42F2-974B-2C92C2FD411D}.Debug|x86.Build.0 = Debug|x86
+		{D28EEF0E-65E8-42F2-974B-2C92C2FD411D}.Release|Any CPU.ActiveCfg = Release|x86
+		{D28EEF0E-65E8-42F2-974B-2C92C2FD411D}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{D28EEF0E-65E8-42F2-974B-2C92C2FD411D}.Release|Mixed Platforms.Build.0 = Release|x86
+		{D28EEF0E-65E8-42F2-974B-2C92C2FD411D}.Release|x86.ActiveCfg = Release|x86
+		{D28EEF0E-65E8-42F2-974B-2C92C2FD411D}.Release|x86.Build.0 = Release|x86
+		{D08A7CD4-3578-4B94-BD8A-002047DAE425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08A7CD4-3578-4B94-BD8A-002047DAE425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08A7CD4-3578-4B94-BD8A-002047DAE425}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{D08A7CD4-3578-4B94-BD8A-002047DAE425}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{D08A7CD4-3578-4B94-BD8A-002047DAE425}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D08A7CD4-3578-4B94-BD8A-002047DAE425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08A7CD4-3578-4B94-BD8A-002047DAE425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D08A7CD4-3578-4B94-BD8A-002047DAE425}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{D08A7CD4-3578-4B94-BD8A-002047DAE425}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{D08A7CD4-3578-4B94-BD8A-002047DAE425}.Release|x86.ActiveCfg = Release|Any CPU
+		{E8FE52BF-6113-454F-98D3-85EBF7BA47DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8FE52BF-6113-454F-98D3-85EBF7BA47DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8FE52BF-6113-454F-98D3-85EBF7BA47DD}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{E8FE52BF-6113-454F-98D3-85EBF7BA47DD}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{E8FE52BF-6113-454F-98D3-85EBF7BA47DD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E8FE52BF-6113-454F-98D3-85EBF7BA47DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8FE52BF-6113-454F-98D3-85EBF7BA47DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8FE52BF-6113-454F-98D3-85EBF7BA47DD}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{E8FE52BF-6113-454F-98D3-85EBF7BA47DD}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{E8FE52BF-6113-454F-98D3-85EBF7BA47DD}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Solomon\Documents\Visual Studio 2010\Projects\LiftController\EventGenerator\bin\Debug\EventGenerator.dll
+C:\Users\Solomon\Documents\Visual Studio 2010\Projects\LiftController\EventGenerator\bin\Debug\EventGenerator.pdb
+C:\Users\Solomon\Documents\Visual Studio 2010\Projects\LiftController\EventGenerator\obj\Debug\EventGenerator.dll
+C:\Users\Solomon\Documents\Visual Studio 2010\Projects\LiftController\EventGenerator\obj\Debug\EventGenerator.pdb
+C:\Users\Solomon\Documents\Visual Studio 2010\Projects\LiftController\EventGenerator\bin\Debug\LiftControllerLib.dll
+C:\Users\Solomon\Documents\Visual Studio 2010\Projects\LiftController\EventGenerator\bin\Debug\LiftControllerLib.pdb
+C:\Users\Solomon\Documents\Visual Studio 2010\Projects\LiftController\EventGenerator\obj\Debug\EventGenerator.csprojResolveAssemblyReference.cache

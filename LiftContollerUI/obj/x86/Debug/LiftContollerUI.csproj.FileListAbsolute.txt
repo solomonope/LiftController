@@ -1,0 +1,13 @@
+C:\Users\Solomon\Documents\Visual Studio 2010\Projects\LiftController\LiftContollerUI\bin\Debug\LiftContollerUI.exe
+C:\Users\Solomon\Documents\Visual Studio 2010\Projects\LiftController\LiftContollerUI\bin\Debug\LiftContollerUI.pdb
+C:\Users\Solomon\Documents\Visual Studio 2010\Projects\LiftController\LiftContollerUI\bin\Debug\LiftControllerLib.dll
+C:\Users\Solomon\Documents\Visual Studio 2010\Projects\LiftController\LiftContollerUI\bin\Debug\LiftControllerLib.pdb
+C:\Users\Solomon\Documents\Visual Studio 2010\Projects\LiftController\LiftContollerUI\obj\x86\Debug\LiftContollerUI.AboutBox.resources
+C:\Users\Solomon\Documents\Visual Studio 2010\Projects\LiftController\LiftContollerUI\obj\x86\Debug\LiftContollerUI.MainForm.resources
+C:\Users\Solomon\Documents\Visual Studio 2010\Projects\LiftController\LiftContollerUI\obj\x86\Debug\LiftContollerUI.Properties.Resources.resources
+C:\Users\Solomon\Documents\Visual Studio 2010\Projects\LiftController\LiftContollerUI\obj\x86\Debug\LiftContollerUI.exe
+C:\Users\Solomon\Documents\Visual Studio 2010\Projects\LiftController\LiftContollerUI\obj\x86\Debug\LiftContollerUI.pdb
+C:\Users\Solomon\Documents\Visual Studio 2010\Projects\LiftController\LiftContollerUI\bin\Debug\EventGenerator.dll
+C:\Users\Solomon\Documents\Visual Studio 2010\Projects\LiftController\LiftContollerUI\bin\Debug\EventGenerator.pdb
+C:\Users\Solomon\Documents\Visual Studio 2010\Projects\LiftController\LiftContollerUI\obj\x86\Debug\LiftContollerUI.csprojResolveAssemblyReference.cache
+C:\Users\Solomon\Documents\Visual Studio 2010\Projects\LiftController\LiftContollerUI\obj\x86\Debug\LiftContollerUI.csproj.GenerateResource.Cache
